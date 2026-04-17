@@ -1,0 +1,282 @@
+{
+  "openapi": "3.0.1",
+  "info": {
+    "title": "RentACarAPI",
+    "version": "1.0"
+  },
+  "paths": {
+    "/api/Rentas": {
+      "post": {
+        "tags": [
+          "Rentas"
+        ],
+        "requestBody": {
+          "content": {
+            "application/json": {
+              "schema": {
+                "$ref": "#/components/schemas/Renta"
+              }
+            },
+            "text/json": {
+              "schema": {
+                "$ref": "#/components/schemas/Renta"
+              }
+            },
+            "application/*+json": {
+              "schema": {
+                "$ref": "#/components/schemas/Renta"
+              }
+            }
+          }
+        },
+        "responses": {
+          "200": {
+            "description": "OK"
+          }
+        }
+      }
+    },
+    "/api/Rentas/devolver/{id}": {
+      "put": {
+        "tags": [
+          "Rentas"
+        ],
+        "parameters": [
+          {
+            "name": "id",
+            "in": "path",
+            "required": true,
+            "schema": {
+              "type": "integer",
+              "format": "int32"
+            }
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "OK"
+          }
+        }
+      }
+    },
+    "/api/Vehiculos": {
+      "get": {
+        "tags": [
+          "Vehiculos"
+        ],
+        "responses": {
+          "200": {
+            "description": "OK"
+          }
+        }
+      },
+      "post": {
+        "tags": [
+          "Vehiculos"
+        ],
+        "requestBody": {
+          "content": {
+            "application/json": {
+              "schema": {
+                "$ref": "#/components/schemas/Vehiculo"
+              }
+            },
+            "text/json": {
+              "schema": {
+                "$ref": "#/components/schemas/Vehiculo"
+              }
+            },
+            "application/*+json": {
+              "schema": {
+                "$ref": "#/components/schemas/Vehiculo"
+              }
+            }
+          }
+        },
+        "responses": {
+          "200": {
+            "description": "OK"
+          }
+        }
+      }
+    },
+    "/api/Vehiculos/{id}": {
+      "get": {
+        "tags": [
+          "Vehiculos"
+        ],
+        "parameters": [
+          {
+            "name": "id",
+            "in": "path",
+            "required": true,
+            "schema": {
+              "type": "integer",
+              "format": "int32"
+            }
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "OK"
+          }
+        }
+      },
+      "put": {
+        "tags": [
+          "Vehiculos"
+        ],
+        "parameters": [
+          {
+            "name": "id",
+            "in": "path",
+            "required": true,
+            "schema": {
+              "type": "integer",
+              "format": "int32"
+            }
+          }
+        ],
+        "requestBody": {
+          "content": {
+            "application/json": {
+              "schema": {
+                "$ref": "#/components/schemas/Vehiculo"
+              }
+            },
+            "text/json": {
+              "schema": {
+                "$ref": "#/components/schemas/Vehiculo"
+              }
+            },
+            "application/*+json": {
+              "schema": {
+                "$ref": "#/components/schemas/Vehiculo"
+              }
+            }
+          }
+        },
+        "responses": {
+          "200": {
+            "description": "OK"
+          }
+        }
+      },
+      "delete": {
+        "tags": [
+          "Vehiculos"
+        ],
+        "parameters": [
+          {
+            "name": "id",
+            "in": "path",
+            "required": true,
+            "schema": {
+              "type": "integer",
+              "format": "int32"
+            }
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "OK"
+          }
+        }
+      }
+    },
+    "/api/Vehiculos/devolver/{id}": {
+      "put": {
+        "tags": [
+          "Vehiculos"
+        ],
+        "parameters": [
+          {
+            "name": "id",
+            "in": "path",
+            "required": true,
+            "schema": {
+              "type": "integer",
+              "format": "int32"
+            }
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "OK"
+          }
+        }
+      }
+    }
+  },
+  "components": {
+    "schemas": {
+      "Renta": {
+        "type": "object",
+        "properties": {
+          "id": {
+            "type": "integer",
+            "format": "int32"
+          },
+          "vehiculoId": {
+            "type": "integer",
+            "format": "int32"
+          },
+          "clienteNombre": {
+            "type": "string",
+            "nullable": true
+          },
+          "fechaInicio": {
+            "type": "string",
+            "format": "date-time"
+          },
+          "fechaFin": {
+            "type": "string",
+            "format": "date-time"
+          },
+          "total": {
+            "type": "number",
+            "format": "double"
+          }
+        },
+        "additionalProperties": false
+      },
+      "Vehiculo": {
+        "type": "object",
+        "properties": {
+          "id": {
+            "type": "integer",
+            "format": "int32"
+          },
+          "marca": {
+            "type": "string",
+            "nullable": true
+          },
+          "modelo": {
+            "type": "string",
+            "nullable": true
+          },
+          "anio": {
+            "type": "integer",
+            "format": "int32"
+          },
+          "precioPorDia": {
+            "type": "number",
+            "format": "double"
+          },
+          "disponible": {
+            "type": "boolean"
+          },
+          "imagenUrl": {
+            "type": "string",
+            "nullable": true
+          },
+          "imagenesExtra": {
+            "type": "string",
+            "nullable": true
+          }
+        },
+        "additionalProperties": false
+      }
+    }
+  }
+}

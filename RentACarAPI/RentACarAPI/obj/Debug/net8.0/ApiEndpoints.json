@@ -1,0 +1,129 @@
+[
+  {
+    "ContainingType": "RentACarAPI.Controllers.RentasController",
+    "Method": "CrearRenta",
+    "RelativePath": "api/Rentas",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "renta",
+        "Type": "Renta",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "RentACarAPI.Controllers.RentasController",
+    "Method": "DevolverVehiculo",
+    "RelativePath": "api/Rentas/devolver/{id}",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "RentACarAPI.Controllers.VehiculosController",
+    "Method": "Get",
+    "RelativePath": "api/Vehiculos",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "RentACarAPI.Controllers.VehiculosController",
+    "Method": "Post",
+    "RelativePath": "api/Vehiculos",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "vehiculo",
+        "Type": "RentACarAPI.Models.Vehiculo",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "RentACarAPI.Controllers.VehiculosController",
+    "Method": "Get",
+    "RelativePath": "api/Vehiculos/{id}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "RentACarAPI.Controllers.VehiculosController",
+    "Method": "Put",
+    "RelativePath": "api/Vehiculos/{id}",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      },
+      {
+        "Name": "vehiculo",
+        "Type": "RentACarAPI.Models.Vehiculo",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "RentACarAPI.Controllers.VehiculosController",
+    "Method": "Delete",
+    "RelativePath": "api/Vehiculos/{id}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "RentACarAPI.Controllers.VehiculosController",
+    "Method": "DevolverVehiculo",
+    "RelativePath": "api/Vehiculos/devolver/{id}",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  }
+]

@@ -1,0 +1,149 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Snook\\source\\repos\\RentACarAPI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B3273BA2-0611-415B-B8E0-AB09240D7E2D}|RentACarAPI\\RentACarAPI.csproj|c:\\users\\snook\\source\\repos\\rentacarapi\\rentacarapi\\controllers\\vehiculoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B3273BA2-0611-415B-B8E0-AB09240D7E2D}|RentACarAPI\\RentACarAPI.csproj|solutionrelative:rentacarapi\\controllers\\vehiculoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3273BA2-0611-415B-B8E0-AB09240D7E2D}|RentACarAPI\\RentACarAPI.csproj|c:\\users\\snook\\source\\repos\\rentacarapi\\rentacarapi\\models\\renta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B3273BA2-0611-415B-B8E0-AB09240D7E2D}|RentACarAPI\\RentACarAPI.csproj|solutionrelative:rentacarapi\\models\\renta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3273BA2-0611-415B-B8E0-AB09240D7E2D}|RentACarAPI\\RentACarAPI.csproj|c:\\users\\snook\\source\\repos\\rentacarapi\\rentacarapi\\controllers\\rentascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B3273BA2-0611-415B-B8E0-AB09240D7E2D}|RentACarAPI\\RentACarAPI.csproj|solutionrelative:rentacarapi\\controllers\\rentascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3273BA2-0611-415B-B8E0-AB09240D7E2D}|RentACarAPI\\RentACarAPI.csproj|c:\\users\\snook\\source\\repos\\rentacarapi\\rentacarapi\\models\\vehiculo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B3273BA2-0611-415B-B8E0-AB09240D7E2D}|RentACarAPI\\RentACarAPI.csproj|solutionrelative:rentacarapi\\models\\vehiculo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3273BA2-0611-415B-B8E0-AB09240D7E2D}|RentACarAPI\\RentACarAPI.csproj|c:\\users\\snook\\source\\repos\\rentacarapi\\rentacarapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{B3273BA2-0611-415B-B8E0-AB09240D7E2D}|RentACarAPI\\RentACarAPI.csproj|solutionrelative:rentacarapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3273BA2-0611-415B-B8E0-AB09240D7E2D}|RentACarAPI\\RentACarAPI.csproj|c:\\users\\snook\\source\\repos\\rentacarapi\\rentacarapi\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B3273BA2-0611-415B-B8E0-AB09240D7E2D}|RentACarAPI\\RentACarAPI.csproj|solutionrelative:rentacarapi\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3273BA2-0611-415B-B8E0-AB09240D7E2D}|RentACarAPI\\RentACarAPI.csproj|c:\\users\\snook\\source\\repos\\rentacarapi\\rentacarapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B3273BA2-0611-415B-B8E0-AB09240D7E2D}|RentACarAPI\\RentACarAPI.csproj|solutionrelative:rentacarapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3273BA2-0611-415B-B8E0-AB09240D7E2D}|RentACarAPI\\RentACarAPI.csproj|c:\\users\\snook\\source\\repos\\rentacarapi\\rentacarapi\\migrations\\20260416230116_addimagenesvehiculo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B3273BA2-0611-415B-B8E0-AB09240D7E2D}|RentACarAPI\\RentACarAPI.csproj|solutionrelative:rentacarapi\\migrations\\20260416230116_addimagenesvehiculo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "20260416230116_AddImagenesVehiculo.cs",
+              "DocumentMoniker": "C:\\Users\\Snook\\source\\repos\\RentACarAPI\\RentACarAPI\\Migrations\\20260416230116_AddImagenesVehiculo.cs",
+              "RelativeDocumentMoniker": "RentACarAPI\\Migrations\\20260416230116_AddImagenesVehiculo.cs",
+              "ToolTip": "C:\\Users\\Snook\\source\\repos\\RentACarAPI\\RentACarAPI\\Migrations\\20260416230116_AddImagenesVehiculo.cs",
+              "RelativeToolTip": "RentACarAPI\\Migrations\\20260416230116_AddImagenesVehiculo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-16T23:01:16.856Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "RentasController.cs",
+              "DocumentMoniker": "C:\\Users\\Snook\\source\\repos\\RentACarAPI\\RentACarAPI\\Controllers\\RentasController.cs",
+              "RelativeDocumentMoniker": "RentACarAPI\\Controllers\\RentasController.cs",
+              "ToolTip": "C:\\Users\\Snook\\source\\repos\\RentACarAPI\\RentACarAPI\\Controllers\\RentasController.cs",
+              "RelativeToolTip": "RentACarAPI\\Controllers\\RentasController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAFYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-11T21:33:22.991Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Renta.cs",
+              "DocumentMoniker": "C:\\Users\\Snook\\source\\repos\\RentACarAPI\\RentACarAPI\\Models\\Renta.cs",
+              "RelativeDocumentMoniker": "RentACarAPI\\Models\\Renta.cs",
+              "ToolTip": "C:\\Users\\Snook\\source\\repos\\RentACarAPI\\RentACarAPI\\Models\\Renta.cs",
+              "RelativeToolTip": "RentACarAPI\\Models\\Renta.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAqwBMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-11T21:29:21.808Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Snook\\source\\repos\\RentACarAPI\\RentACarAPI\\appsettings.json",
+              "RelativeDocumentMoniker": "RentACarAPI\\appsettings.json",
+              "ToolTip": "C:\\Users\\Snook\\source\\repos\\RentACarAPI\\RentACarAPI\\appsettings.json",
+              "RelativeToolTip": "RentACarAPI\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-04-09T16:32:05.773Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Snook\\source\\repos\\RentACarAPI\\RentACarAPI\\Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "RentACarAPI\\Data\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\Snook\\source\\repos\\RentACarAPI\\RentACarAPI\\Data\\AppDbContext.cs",
+              "RelativeToolTip": "RentACarAPI\\Data\\AppDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-09T16:29:09.476Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "VehiculosController.cs",
+              "DocumentMoniker": "C:\\Users\\Snook\\source\\repos\\RentACarAPI\\RentACarAPI\\Controllers\\VehiculosController.cs",
+              "RelativeDocumentMoniker": "RentACarAPI\\Controllers\\VehiculosController.cs",
+              "ToolTip": "C:\\Users\\Snook\\source\\repos\\RentACarAPI\\RentACarAPI\\Controllers\\VehiculosController.cs",
+              "RelativeToolTip": "RentACarAPI\\Controllers\\VehiculosController.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAAAGMAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-08T20:44:13.341Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Vehiculo.cs",
+              "DocumentMoniker": "C:\\Users\\Snook\\source\\repos\\RentACarAPI\\RentACarAPI\\Models\\Vehiculo.cs",
+              "RelativeDocumentMoniker": "RentACarAPI\\Models\\Vehiculo.cs",
+              "ToolTip": "C:\\Users\\Snook\\source\\repos\\RentACarAPI\\RentACarAPI\\Models\\Vehiculo.cs",
+              "RelativeToolTip": "RentACarAPI\\Models\\Vehiculo.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAA2wA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-08T20:40:05.869Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Snook\\source\\repos\\RentACarAPI\\RentACarAPI\\Program.cs",
+              "RelativeDocumentMoniker": "RentACarAPI\\Program.cs",
+              "ToolTip": "C:\\Users\\Snook\\source\\repos\\RentACarAPI\\RentACarAPI\\Program.cs",
+              "RelativeToolTip": "RentACarAPI\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACsAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-08T20:34:57.491Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
