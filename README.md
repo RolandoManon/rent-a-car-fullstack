@@ -54,8 +54,7 @@ Rent-a-Car-fullstack/
 ### Backend
 1. Abrir la solución en Visual Studio
 2. Configurar la cadena de conexión en `appsettings.json`
-3. Ejecutar migraciones (si aplica)
-4. Iniciar el proyecto con IIS Express o Kestrel
+3. Iniciar el proyecto 
 
 ### Frontend
 1. Abrir `index.html` en el navegador  
