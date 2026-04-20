@@ -47,7 +47,7 @@ Rent-a-Car-fullstack/
 │
 ├── RentACarAPI/ # Backend ASP.NET Core
 ├── frontend/ # Interfaz web (HTML, CSS, JS)
-├── database/ # Scripts SQL (si aplica)
+├── database/ # Scripts SQL 
 └── README.md
 ## 🚀 Cómo ejecutar el proyecto
 
@@ -72,9 +72,7 @@ Rent-a-Car-fullstack/
 
 ## 👨‍💻 Autor
 
-Desarrollado por **[Rolando Mañon Henriquez (Snooky)]**  
-Proyecto para portafolio profesional y CV.
-
+Desarrollado por **Rolando Mañon Henriquez (Snooky)**  
 ---
 
 ## 📌 Nota
